@@ -1,37 +1,17 @@
-# Global Sales Dashboard Using Power BI
+# Global-Sales-Dashboard-Using-Power-BI
 
-This project presents an interactive **Power BI** dashboard built using the **Global Superstore** sales dataset.  
-The objective was to extract meaningful business insights by performing **data cleaning, transformation, and visualization**.
-
----
-
-## 📌 Project Overview
-- **ETL Process:** Used **Power Query** to clean and transform raw data.
-- **Analytics:** Created calculated measures and columns using **DAX** for enhanced analytics.
-- **Dashboard Design:** Built an interactive dashboard with **cards, charts, slicers, and filters** for an intuitive user experience.
-- **Insights:** Delivered actionable insights to help stakeholders make informed business decisions.
+- In this project, I have created an interactive **Power BI Sales Dashboard** using the **Global Superstore** sales dataset to extract meaningful business insights.  
+- The **ETL process** was performed using **Power Query** to clean and transform raw data, and **DAX** was used for creating calculated measures and calculated columns for enhanced analytics.  
+- Once the data was prepared, I designed a fully interactive dashboard with **cards, charts, slicers, and filters** to provide an intuitive user experience.  
+- This helps stakeholders easily understand the information and make informed business decisions.
 
 ---
 
-## 🛠 Tools & Technologies
-- Microsoft Power BI  
-- Microsoft Excel
+## Tools and Technologies Used
+1. Microsoft Power BI  
+2. Microsoft Excel  
 
 ---
 
-## 📂 Data Source
-- **Global Superstore 2016 Dataset**  
-  *(Publicly available sample dataset from Tableau/Power BI resources)*
-
----
-
-## 📷 Dashboard Preview
-![Dashboard Screenshot](SalesDashboard.png)
-
----
-
-## 📈 Key Features
-- Sales and profit trends analysis
-- Regional and category-based performance breakdown
-- Time-series comparison with filters
-- Dynamic KPIs for better decision-making
+## Data Source
+- Global Superstore 2016 Dataset
