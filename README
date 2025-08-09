@@ -1,9 +1,19 @@
-Gobal-Sales-Dashboard-Using-Power-BI
-In this project, i have made a intractive Power BI Sales Dashboard on Global_super_store sales data and find some insights from the data. In order to building the dashboard the ETL process was done as per the requirements, Power query was used to clean and transform the data and DAX was used for creating the culculated measures and culculated column.
-Once done with the culculations, i have made visualizations and create report using cards, charts, slicer etc.
-Which help to easy understanding of the end-user and give meaningful insights.
-Tools and Technology used-
-1. Microsoft Power BI
-2. MS Excel
-Data Source used-
-Kaggle- https://www.kaggle.com/datasets/tahir1413/global-superstore-2016
+Global Sales Dashboard Using Power BI
+This project presents an interactive Power BI dashboard built using the Global Superstore sales dataset. The objective was to extract meaningful business insights by performing data cleaning, transformation, and visualization.
+
+Project Overview
+Performed the ETL process using Power Query to clean and transform raw data.
+
+Created calculated measures and calculated columns using DAX for enhanced analytics.
+
+Designed a fully interactive dashboard with cards, charts, slicers, and filters to provide an intuitive user experience.
+
+Delivered actionable insights to help stakeholders make informed business decisions.
+
+Tools & Technologies
+Microsoft Power BI
+
+Microsoft Excel
+
+Data Source
+Global Superstore 2016 Dataset –
